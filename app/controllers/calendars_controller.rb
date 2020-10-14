@@ -46,9 +46,4 @@ class CalendarsController < ApplicationController
       @week_days.push(days)
     end
   end
-
 end
-
-
-# wdays[Date.today.wday].to_s
-# :wday => wdays[wday_num].to_s 
